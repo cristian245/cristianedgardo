@@ -1,0 +1,70 @@
+body{
+	color: black;
+	border:ridge 20px gray;
+}
+
+h1{
+	
+	color: #0000cd	
+}
+
+a{
+	color:#ffffff;
+	font-size:20px;
+}
+
+div{
+	height: 30px;
+	background:#000000;
+}
+p{
+	font-size:18px;
+}
+
+figure{
+	margin:50;
+	display:inline-block;
+	border:0px solid black;
+	position: relative
+}
+
+#hhh{
+	float:left;
+	margin:15px;
+	width: 500px;
+	border: black 10px solid;
+}
+
+#nnn{
+	margin:15px;
+	border:brack 10px solid;
+	width: 400px;
+} 
+
+#ccc{
+	margin:15px;
+	border:brack 10px solid;
+	width: 400px;
+}
+
+#kkk{
+	margin:15px;
+	border:brack 10px solid;
+	width: 400px;
+}
+#mmm{
+	margin:15px;
+	border:brack 10px solid;
+	width: 400px;
+}
+#ddd{ 
+    margin:15px;
+    border:brack 10px solid;
+	width: 400px;
+}
+#jjj{
+	margin:15px;
+	border:brack 10px solid;
+	width: 400px;
+}
+
